@@ -1,12 +1,12 @@
 .yes-click,
 .no-click {
   font-family: helvetica, sans-serif, 'Times New  Roman';
-  font-size: 28px
+  font-size: 28px;
 }
 
 .yes-click {
   background-color: hsl(0, 0%, 0%);
-  color: #ffffff
+  color: #ffffff;
 }
 
 .no-click {
